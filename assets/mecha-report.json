@@ -1,0 +1,26 @@
+{
+  "status": "review asset; not installed or performance-qualified",
+  "source": "Original procedural adaptation of approved Mecha Scout concept; tools/prepare_mecha.py",
+  "bytes": 84008,
+  "vertices": 3598,
+  "triangles": 4730,
+  "meshes": 31,
+  "nodes": 45,
+  "rig": "hierarchical rigid joints, no skinning; independent eyes, mouth and ears",
+  "clips": [
+    "Idle",
+    "Listening",
+    "Thinking",
+    "Speaking",
+    "Wave",
+    "Yes",
+    "No",
+    "Happy",
+    "Curious",
+    "Sleep",
+    "Surprise",
+    "Point",
+    "Celebrate",
+    "Sad"
+  ]
+}

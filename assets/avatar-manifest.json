@@ -1,0 +1,32 @@
+{
+  "id": "ditto-prototype",
+  "source": "Procedural fan model of Pok\u00e9mon Ditto; local prototyping",
+  "generator": "tools/prepare_ditto.py",
+  "bytes": 104824,
+  "triangles": 1816,
+  "vertices": 958,
+  "meshes": 4,
+  "nodes": 6,
+  "clips": [
+    "Idle",
+    "Listening",
+    "Thinking",
+    "Speaking",
+    "Wave",
+    "Yes",
+    "No",
+    "Happy",
+    "Curious",
+    "Sleep",
+    "Surprise",
+    "Point",
+    "Celebrate",
+    "Sad",
+    "Wink",
+    "Giggle"
+  ],
+  "mouth_animation": true,
+  "geometry": "Closed implicit blob with smooth analytic gradient normals",
+  "animation": "Live node transforms with interruptible squash/stretch, gaze and blinking",
+  "status": "Procedural asset and live face morphs; see test-results/ditto-emotes-0.6.0 for device evidence"
+}

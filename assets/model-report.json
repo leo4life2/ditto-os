@@ -1,0 +1,308 @@
+{
+  "source": "assets/source/RobotExpressive.glb",
+  "bytes": 67524,
+  "meshes": [
+    {
+      "mesh": "Foot.L",
+      "vertices_before": 64,
+      "vertices_after": 8,
+      "triangles": 12,
+      "reduction": {
+        "triangles_in": 33,
+        "vertices_in": 18,
+        "locked": 0,
+        "triangles_out": 12,
+        "vertices_out": 8,
+        "collapses": 10,
+        "uv_refused": 0
+      }
+    },
+    {
+      "mesh": "Torso.0",
+      "vertices_before": 568,
+      "vertices_after": 63,
+      "triangles": 74,
+      "reduction": {
+        "triangles_in": 300,
+        "vertices_in": 176,
+        "locked": 40,
+        "triangles_out": 74,
+        "vertices_out": 63,
+        "collapses": 113,
+        "uv_refused": 0
+      }
+    },
+    {
+      "mesh": "Torso.1",
+      "vertices_before": 1344,
+      "vertices_after": 129,
+      "triangles": 142,
+      "reduction": {
+        "triangles_in": 570,
+        "vertices_in": 345,
+        "locked": 84,
+        "triangles_out": 142,
+        "vertices_out": 129,
+        "collapses": 214,
+        "uv_refused": 0
+      }
+    },
+    {
+      "mesh": "Head.0",
+      "vertices_before": 302,
+      "vertices_after": 38,
+      "triangles": 38,
+      "reduction": {
+        "triangles_in": 154,
+        "vertices_in": 96,
+        "locked": 36,
+        "triangles_out": 38,
+        "vertices_out": 38,
+        "collapses": 58,
+        "uv_refused": 0
+      }
+    },
+    {
+      "mesh": "Head.1",
+      "vertices_before": 876,
+      "vertices_after": 204,
+      "triangles": 178,
+      "reduction": {
+        "triangles_in": 460,
+        "vertices_in": 345,
+        "locked": 180,
+        "triangles_out": 178,
+        "vertices_out": 204,
+        "collapses": 141,
+        "uv_refused": 0
+      }
+    },
+    {
+      "mesh": "Head.2",
+      "vertices_before": 564,
+      "vertices_after": 106,
+      "triangles": 196,
+      "reduction": {
+        "triangles_in": 196,
+        "vertices_in": 106,
+        "locked": 0,
+        "triangles_out": 196,
+        "vertices_out": 106,
+        "collapses": 0,
+        "uv_refused": 0
+      }
+    },
+    {
+      "mesh": "Foot.R",
+      "vertices_before": 64,
+      "vertices_after": 8,
+      "triangles": 12,
+      "reduction": {
+        "triangles_in": 34,
+        "vertices_in": 18,
+        "locked": 0,
+        "triangles_out": 12,
+        "vertices_out": 8,
+        "collapses": 10,
+        "uv_refused": 0
+      }
+    },
+    {
+      "mesh": "Shoulder.L",
+      "vertices_before": 232,
+      "vertices_after": 18,
+      "triangles": 30,
+      "reduction": {
+        "triangles_in": 122,
+        "vertices_in": 64,
+        "locked": 4,
+        "triangles_out": 30,
+        "vertices_out": 18,
+        "collapses": 46,
+        "uv_refused": 0
+      }
+    },
+    {
+      "mesh": "Arm.L",
+      "vertices_before": 296,
+      "vertices_after": 17,
+      "triangles": 26,
+      "reduction": {
+        "triangles_in": 108,
+        "vertices_in": 58,
+        "locked": 0,
+        "triangles_out": 26,
+        "vertices_out": 17,
+        "collapses": 41,
+        "uv_refused": 0
+      }
+    },
+    {
+      "mesh": "Shoulder.R",
+      "vertices_before": 232,
+      "vertices_after": 18,
+      "triangles": 30,
+      "reduction": {
+        "triangles_in": 122,
+        "vertices_in": 64,
+        "locked": 4,
+        "triangles_out": 30,
+        "vertices_out": 18,
+        "collapses": 46,
+        "uv_refused": 0
+      }
+    },
+    {
+      "mesh": "Arm.R",
+      "vertices_before": 284,
+      "vertices_after": 18,
+      "triangles": 26,
+      "reduction": {
+        "triangles_in": 106,
+        "vertices_in": 58,
+        "locked": 4,
+        "triangles_out": 26,
+        "vertices_out": 18,
+        "collapses": 40,
+        "uv_refused": 0
+      }
+    },
+    {
+      "mesh": "Leg.L",
+      "vertices_before": 270,
+      "vertices_after": 14,
+      "triangles": 24,
+      "reduction": {
+        "triangles_in": 98,
+        "vertices_in": 51,
+        "locked": 0,
+        "triangles_out": 24,
+        "vertices_out": 14,
+        "collapses": 37,
+        "uv_refused": 0
+      }
+    },
+    {
+      "mesh": "LowerLeg.L",
+      "vertices_before": 370,
+      "vertices_after": 22,
+      "triangles": 36,
+      "reduction": {
+        "triangles_in": 146,
+        "vertices_in": 77,
+        "locked": 0,
+        "triangles_out": 36,
+        "vertices_out": 22,
+        "collapses": 55,
+        "uv_refused": 0
+      }
+    },
+    {
+      "mesh": "Leg.R",
+      "vertices_before": 270,
+      "vertices_after": 14,
+      "triangles": 24,
+      "reduction": {
+        "triangles_in": 98,
+        "vertices_in": 51,
+        "locked": 0,
+        "triangles_out": 24,
+        "vertices_out": 14,
+        "collapses": 37,
+        "uv_refused": 0
+      }
+    },
+    {
+      "mesh": "LowerLeg.R",
+      "vertices_before": 370,
+      "vertices_after": 22,
+      "triangles": 36,
+      "reduction": {
+        "triangles_in": 146,
+        "vertices_in": 77,
+        "locked": 0,
+        "triangles_out": 36,
+        "vertices_out": 22,
+        "collapses": 55,
+        "uv_refused": 0
+      }
+    },
+    {
+      "mesh": "Hand.R.0",
+      "vertices_before": 256,
+      "vertices_after": 35,
+      "triangles": 42,
+      "reduction": {
+        "triangles_in": 124,
+        "vertices_in": 76,
+        "locked": 32,
+        "triangles_out": 42,
+        "vertices_out": 35,
+        "collapses": 41,
+        "uv_refused": 0
+      }
+    },
+    {
+      "mesh": "Hand.R.1",
+      "vertices_before": 298,
+      "vertices_after": 38,
+      "triangles": 36,
+      "reduction": {
+        "triangles_in": 148,
+        "vertices_in": 94,
+        "locked": 32,
+        "triangles_out": 36,
+        "vertices_out": 38,
+        "collapses": 56,
+        "uv_refused": 0
+      }
+    },
+    {
+      "mesh": "Hand.L.0",
+      "vertices_before": 256,
+      "vertices_after": 35,
+      "triangles": 42,
+      "reduction": {
+        "triangles_in": 124,
+        "vertices_in": 76,
+        "locked": 32,
+        "triangles_out": 42,
+        "vertices_out": 35,
+        "collapses": 41,
+        "uv_refused": 0
+      }
+    },
+    {
+      "mesh": "Hand.L.1",
+      "vertices_before": 298,
+      "vertices_after": 38,
+      "triangles": 36,
+      "reduction": {
+        "triangles_in": 148,
+        "vertices_in": 94,
+        "locked": 32,
+        "triangles_out": 36,
+        "vertices_out": 38,
+        "collapses": 56,
+        "uv_refused": 0
+      }
+    }
+  ],
+  "morph_animation": "Three original head morph targets exported separately; runtime blends expressions",
+  "clips": [
+    "Dance",
+    "Death",
+    "Idle",
+    "Jump",
+    "No",
+    "Punch",
+    "Running",
+    "Sitting",
+    "Standing",
+    "ThumbsUp",
+    "Walking",
+    "WalkJump",
+    "Wave",
+    "Yes"
+  ]
+}

@@ -1,0 +1,30 @@
+# Local state, toolchains and generated output
+build/
+**/build/
+.scratch/
+**/.scratch/
+managed_components/
+**/managed_components/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.log
+.DS_Store
+.env
+.env.*
+!.env.example
+sdkconfig.old
+**/sdkconfig.old
+dist/
+test-results/
+*.pem
+*.key
+*.p12
+*.pfx
+# Native scratch executables
+tools/a3d_view
+tools/model_check
+tools/render_asset
+tools/render_host
+tools/render_host_baseline
